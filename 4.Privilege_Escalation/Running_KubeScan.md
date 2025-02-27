@@ -2,6 +2,8 @@
 
 **Description:** KubeScan is a tool used to scan Kubernetes cluster for risky RBAC configurations
 
+**MSID:** MS-TA9019
+
 **Requirements:** docker
 
 ## Scanning using Kubernetes configuration file

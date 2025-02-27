@@ -2,7 +2,7 @@
 
 **Description:** Kube-Hunter is a tool used to scan Kubernetes cluster for security weaknesses
 
-**MSID:** MS-TA9005
+**MSID:** Exposed sensitive interfaces (MS-TA9005)
 
 **Requirements:** docker
 

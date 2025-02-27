@@ -2,7 +2,7 @@
 
 **Description:** This entry describes how to discovery Kubernetes dashboard
 
-**MSID:** MS-TA9005
+**MSID:** Exposed sensitive interfaces (MS-TA9005)
 
 **Requirements:** curl, nmap, metasploit
 

@@ -7,7 +7,7 @@
 **MSID:** MS-TA9005
 
 ## List of ports
-| Name | Port/Protocol |
+| Name                                             | Port/Protocol   |
 |--------------------------------------------------|-----------------|
 | http Kubernetes                                  | 80/tcp          |
 | https Kubernetes                                 | 443/tcp         |

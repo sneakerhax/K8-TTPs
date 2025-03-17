@@ -1,4 +1,4 @@
-# Title
+# Discovering Exposed Kubernetes Endpoints
 
 **Description:** This entry describes endpoints you can check to verify access to Kubernetes
 

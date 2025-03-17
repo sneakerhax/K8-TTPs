@@ -1,6 +1,6 @@
 # Kubernetes Port Scanning
 
-**Description:** This entry describes how to scan Kubernetes cluster for exposed ports
+**Description:** This entry describes how to scan Kubernetes clusters for exposed ports
 
 **Requirements:** nmap
 

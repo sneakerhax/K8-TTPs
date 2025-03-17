@@ -14,10 +14,10 @@ curl -ILk https://kubernetes.server.api:<port>/<endpoint>
 
 Check for endpoint exposure using curl
 
-## List of endpoints for the K8s API server
+## List of endpoints for the K8s API server (Port: 80, 443, 6443)
 
-| Endpoint | Description                                                            |
-| ---------|------------------------------------------------------------------------|
+| Endpoint                                               | Description              |
+| -------------------------------------------------------|--------------------------|
 | /version                                               | Check the API version    |
 | /api                                                   | List api version         |
 | /apis                                                  | List available resources |
@@ -28,6 +28,23 @@ Check for endpoint exposure using curl
 | /api/v1/serviceaccounts/token                          | Show servicetoken        |
 | /apis/authorization.k8s.io/v1/selfsubjectaccessreviews | Check user permission    |
 | /apis/autoscaling/v1/horizontalpodautoscalers          | List scaling policies    |
+
+## List of endpoints for the Kubelet API (Port: 10250)
+
+| Endpoint       | Description                     |
+| ---------------|---------------------------------|
+| /pods          | List pods running on the node   |
+| /exec/<pod>    | RCE on pod                      |
+| /run/<pod>     | Starts a new process in the pod |
+| /logs/<pod>    | Review pod logs                 |
+| /stats/summary | Detailed node resource usage    |
+
+## List of endpoints for ETCD API (Port: 2379)
+| Endpoint                  | Description           |
+| --------------------------|-----------------------|
+| /v2/keys/registry/secrets | Show all secrets      |
+| /v2/keys/registry/pods    | List all pod details  |                     |
+| /v2/keys/registry/nodes   | List all node details |
 
 ## List of endpoints for the Metrics server
 

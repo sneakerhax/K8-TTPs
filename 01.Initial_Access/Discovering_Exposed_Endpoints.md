@@ -1,0 +1,41 @@
+# Title
+
+**Description:** This entry describes endpoints you can check to verify access to Kubernetes
+
+**Requirements:** browser, curl
+
+**MSID:** MS-TA9005
+
+## Checking for endpoint exposure
+
+```
+curl -ILk https://kubernetes.server.api:<port>/<endpoint>
+```
+
+Check for endpoint exposure using curl
+
+## List of endpoints for the K8s API server
+
+| Endpoint | Description                                                            |
+| ---------|------------------------------------------------------------------------|
+| /version                                               | Check the API version    |
+| /api                                                   | List api version         |
+| /apis                                                  | List available resources |
+| /api/v1/nodes                                          | List node information    |
+| /api/v1/pods                                           | List pod information     |
+| /api/v1/secrets                                        | List secrets             |
+| /api/v1/configmaps                                     | List configmaps          | 
+| /api/v1/serviceaccounts/token                          | Show servicetoken        |
+| /apis/authorization.k8s.io/v1/selfsubjectaccessreviews | Check user permission    |
+| /apis/autoscaling/v1/horizontalpodautoscalers          | List scaling policies    |
+
+## List of endpoints for the Metrics server
+
+| Endpoint | Description              |
+| ---------|--------------------------|
+| /healthz | Check API health         |
+| /metrics | View API metrics         |
+  
+## References
+* [Kubernetes Docs - The Kubernetes API](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
+* [Kubernetes Docs - API Overview](https://kubernetes.io/docs/reference/using-api/)

@@ -19,7 +19,7 @@
 | https kube-registry-proxy                        | 5001/tcp        |
 | Kubernetes API server                            | 6443/tcp        | 
 | Kubernetes dashboard                             | 8001/tcp        | 
-| Kubeflow                                         | 8080/tcp        |
+| KubeProxy, Kubeflow                              | 8080/tcp        |
 | Kubernetes Nginx ingress controller, Apache NiFi | 8443/tcp        | 
 | calico-felix health check server                 | 9099/tcp        | 
 | kubelet API full node access                     | 10250/tcp       |

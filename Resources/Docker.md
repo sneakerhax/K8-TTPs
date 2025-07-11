@@ -68,6 +68,7 @@ A list of vetted sources for attacking and securing Docker
 * [Traitor - Automatic Linux privesc via exploitation of low-hanging fruit](https://github.com/liamg/traitor) - liamg
 * [Docker - PRIVILEGE ESCALATION Technique](https://youtu.be/MnUtHSpcdLQ) - John Hammond
 * [Escaping Virtualized Containers](https://youtu.be/jFlqVe11eeM) - Yuval Avrahami
+* [Root your Docker host in 10 seconds for fun and profit](https://www.electricmonk.nl/log/2017/09/30/root-your-docker-host-in-10-seconds-for-fun-and-profit/) - Ferry Boender
 
 ## Open Source Tools
 

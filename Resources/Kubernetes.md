@@ -3,6 +3,7 @@
 A list of vetted sources for exploiting, attacking, and privilege escalation in Kubernetes
 
 ## Exploits
+* [CVE-2025-1767 - Another gitrepo issue](https://raesene.github.io/blog/2025/03/14/cve-2025-1767-another-gitrepo-issue/) - Raesene
 * [IngressNightmare: CVE-2025-1974 - 9.8 Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities) - Nir Ohfeld, Ronen Shustin, Sagi Tzadik, Hillai Ben-Sasson (Wiz)
 
 ## Attacking & Privilege Escalation

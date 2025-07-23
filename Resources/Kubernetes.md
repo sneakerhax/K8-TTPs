@@ -3,9 +3,6 @@
 A list of vetted sources for exploiting, attacking, and privilege escalation in Kubernetes
 
 ## Exploits
-* [Official CVE Feed](https://kubernetes.io/docs/reference/issues-security/official-cve-feed/) - Kubernetes
-* [Github - Kubernetes - Issues (open security bugs)](https://github.com/kubernetes/kubernetes/issues?q=state%3Aopen%20label%3A%22area%2Fsecurity%22%20AND%20label%3Akind%2Fbug) - Kubernetes
-* [CVE Details for Kubernetes](https://www.cvedetails.com/vulnerability-list/vendor_id-15867/product_id-34016/Kubernetes-Kubernetes.html) - CVE Details
 * [IngressNightmare: CVE-2025-1974 - 9.8 Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities) - Nir Ohfeld, Ronen Shustin, Sagi Tzadik, Hillai Ben-Sasson (Wiz)
 
 ## Attacking & Privilege Escalation

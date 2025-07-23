@@ -8,7 +8,7 @@ A list of vetted sources for exploiting, attacking, and privilege escalation in 
 * [CVE Details for Kubernetes](https://www.cvedetails.com/vulnerability-list/vendor_id-15867/product_id-34016/Kubernetes-Kubernetes.html) - CVE Details
 * [IngressNightmare: CVE-2025-1974 - 9.8 Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities) - Nir Ohfeld, Ronen Shustin, Sagi Tzadik, Hillai Ben-Sasson (Wiz)
 
-## Attacking
+## Attacking & Privilege Escalation
 
 * [Kubernetes Pentest Methodology Part 1](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1) - Or Ida (CyberArk)
 * [Kubernetes Pentest Methodology Part 2](https://www.cyberark.com/resources/conjur-secrets-manager-enterprise/kubernetes-pentest-methodology-part-2) - Or Ida (CyberArk)

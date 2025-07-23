@@ -34,7 +34,6 @@ A list of vetted sources for attacking and securing Docker
 * [Owasp - Docker Security](https://github.com/OWASP/Docker-Security) - OWASP
 * [Owasp - Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - OWASP
 * [10 Docker Image Security Best Practices](https://snyk.io/blog/10-docker-image-security-best-practices/) - Liran Tal and Omer Levi Hevroni (snyk)
-* [Docker security scanning cheatsheet 2021](https://snyk.io/blog/docker-security-scanning-cheatsheet-2021/) - Jim Armstrong (snyk)
 * [Docker Security 101](https://www.stackrox.com/post/2019/09/docker-security-101/) - Ajmal Kohgadai (StackRox)
 * [Docker Security](http://containertutorials.com/docker-security.html) - Rajdeep Dua (Container Tutorials)
 * [What security concerns should I have with Docker?](https://github.com/bretfisher/ama/issues/17) - Bret Fisher

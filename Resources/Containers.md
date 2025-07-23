@@ -5,10 +5,12 @@ A list of vetted sources for exploiting, attacking, and escaping containers
 ## Exploits
 
 * [CVE Details for Docker](https://www.cvedetails.com/vulnerability-list/vendor_id-13534/product_id-28125/Docker-Docker.html) - cvedetails
-* [Docker Patched the Most Severe Copy Vulnerability to Date With CVE-2019-14271](https://unit42.paloaltonetworks.com/docker-patched-the-most-severe-copy-vulnerability-to-date-with-cve-2019-14271/) - Yuval Avrahami (Palo Alto Networks)
 * [Vulnerabilities in the Container Ecosystem: A Brief History](https://blog.aquasec.com/container-security-vulnerabilities) - aquasec
+* [Breaking out of Docker via runC – Explaining CVE-2019-5736](https://unit42.paloaltonetworks.com/breaking-docker-via-runc-explaining-cve-2019-5736/) - Yuval Avrahami (Palo Alto Networks)
+* [Docker Patched the Most Severe Copy Vulnerability to Date With CVE-2019-14271](https://unit42.paloaltonetworks.com/docker-patched-the-most-severe-copy-vulnerability-to-date-with-cve-2019-14271/) - Yuval Avrahami (Palo Alto Networks)
 * [CVE-2020-15275: New Vulnerability Exploits containerd-shim API](https://blog.aquasec.com/cve-2020-15257-containerd-shim-api-vulnerability) - Gal Singer (aquasec)
-* [ABSTRACT SHIMMER (CVE-2020-15257): Host Networking is root-Equivalent, Again](https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/) - Jeff Dileo (NCC Group)
+* [ABSTRACT SHIMMER (CVE-2020-15257): Host Networking is root-Equivalent, Again](https://www.nccgroup.com/us/research-blog/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/) - Jeff Dileo (NCC Group)
+* [Leaky Vessels: runC and BuildKit container escape vulnerabilities - everything you need to know](https://www.wiz.io/blog/leaky-vessels-container-escape-vulnerabilities) - Merav Bar, Amitai Cohen, Itamar Gilad (Wiz)
 
 ## Attacking
 

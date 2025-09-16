@@ -6,11 +6,12 @@ A list of vetted sources for exploiting, attacking, and escaping containers
 
 * [Breaking out of Docker via runC – Explaining CVE-2019-5736](https://unit42.paloaltonetworks.com/breaking-docker-via-runc-explaining-cve-2019-5736/) - Yuval Avrahami (Palo Alto Networks)
 * [Docker Patched the Most Severe Copy Vulnerability to Date With CVE-2019-14271](https://unit42.paloaltonetworks.com/docker-patched-the-most-severe-copy-vulnerability-to-date-with-cve-2019-14271/) - Yuval Avrahami (Palo Alto Networks)
-* [CVE-2020-15275: New Vulnerability Exploits containerd-shim API](https://blog.aquasec.com/cve-2020-15257-containerd-shim-api-vulnerability) - Gal Singer (aquasec)
+* [CVE-2020-15275: New Vulnerability Exploits containerd-shim API](https://blog.aquasec.com/cve-2020-15257-containerd-shim-api-vulnerability) - Gal Singer (Aquasec)
 * [ABSTRACT SHIMMER (CVE-2020-15257): Host Networking is root-Equivalent, Again](https://www.nccgroup.com/us/research-blog/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/) - Jeff Dileo (NCC Group)
 * [Using the Dirty Pipe vulnerability to break out from containers](https://www.datadoghq.com/blog/engineering/dirty-pipe-container-escape-poc/) - See post for authors (Datadog)
 * [New Linux Vulnerability CVE-2022-0492 Affecting Cgroups: Can Containers Escape?](https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/) - Yuval Avrahami (Unit 42)
 * [Leaky Vessels: runC and BuildKit container escape vulnerabilities - everything you need to know](https://www.wiz.io/blog/leaky-vessels-container-escape-vulnerabilities) - Merav Bar, Amitai Cohen, Itamar Gilad (Wiz)
+* [NVIDIAScape - Critical NVIDIA AI Vulnerability: A Three-Line Container Escape in NVIDIA Container Toolkit (CVE-2025-23266)](https://www.wiz.io/blog/nvidia-ai-vulnerability-cve-2025-23266-nvidiascape) - Nir Ohfeld, Shir Tamari (Wiz)
 
 ## Attacking
 

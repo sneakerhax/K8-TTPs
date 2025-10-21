@@ -7,14 +7,12 @@ A list of vetted sources for Red Teaming Kubernetes
 * [Kubernetes Pentest Methodology Part 1](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1)
 * [Kubernetes Pentest Methodology Part 2](https://www.cyberark.com/resources/conjur-secrets-manager-enterprise/kubernetes-pentest-methodology-part-2) 
 * [Kubernetes Pentest Methodology Part 3](https://www.cyberark.com/resources/conjur-secrets-manager-enterprise/kubernetes-pentest-methodology-part-3) 
-* [Kubenomicon](https://kubenomicon.com/Kubenomicon.html)
+* [The Kubenomicon](https://kubenomicon.com/Kubenomicon.html)
 * [Stratus Red Team - Kubernetes](https://stratus-red-team.cloud/attack-techniques/kubernetes/)
-* [The Path Less Traveled: Abusing Kubernetes Defaults](https://youtu.be/HmoVSmTIOxM)
-  * [Demos](https://github.com/mauilion/blackhat-2019)
+* [The Path Less Traveled: Abusing Kubernetes Defaults](https://youtu.be/HmoVSmTIOxM) - [Demos](https://github.com/mauilion/blackhat-2019)
 * [Advanced Persistence Threats: The Future of Kubernetes Attacks](https://youtu.be/auUgVullAWM)
 * [Hacking and Hardening Kubernetes Clusters by Example](https://youtu.be/vTgQLzeBfRU)
-* [Command and KubeCTL - Real-World Kubernetes Security for Pentesters](https://www.youtube.com/watch?v=cRbHILH4f0A)
-  * [Slides](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg)
+* [Command and KubeCTL - Real-World Kubernetes Security for Pentesters](https://www.youtube.com/watch?v=cRbHILH4f0A) - [Slides](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg)
 
 ## Exploits
 * [CVE-2025-1767 - Another gitrepo issue](https://raesene.github.io/blog/2025/03/14/cve-2025-1767-another-gitrepo-issue/)
@@ -37,4 +35,4 @@ A list of vetted sources for Red Teaming Kubernetes
 
 ## Persistence
 
-* [Beyond the Surface: Exploring Attacker Persistence Strategies in Kubernetes](https://youtu.be/GtrkIuq5T3M?si=1H3nl6CxhfCC5ym1)
+* [Beyond the Surface: Exploring Attacker Persistence Strategies in Kubernetes](https://youtu.be/GtrkIuq5T3M?si=1H3nl6CxhfCC5ym1) - [Post](https://raesene.github.io/blog/2025/09/12/beyond-the-surface/)

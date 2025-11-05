@@ -31,7 +31,8 @@ A list of vetted sources for Red Teaming Kubernetes
 * [Privileged pod escalations in Kubernetes and GKE](https://security.googleblog.com/2022/05/privileged-pod-escalations-in.html)
 * [Climbing The Ladder | Kubernetes Privilege Escalation (Part 1)](https://www.sentinelone.com/blog/climbing-the-ladder-kubernetes-privilege-escalation-part-1/)
 * [Climbing The Ladder | Kubernetes Privilege Escalation (Part 2)](https://www.sentinelone.com/blog/climbing-the-ladder-kubernetes-privilege-escalation-part-2/)
-* [Tutorial: Hacking up a Storm With Kubernetes](https://youtu.be/8Q8sFzODEUo?feature=shared)
+* [Tutorial: Hacking up a Storm With Kubernetes](https://youtu.be/8Q8sFzODEUo)
+* [I'll Let Myself In: Kubernetes Privilege Escalation Tactics](https://youtu.be/f10WQlr0h_M?si=Qj8fdN1o6OPRtuCq)
 
 ## Persistence
 

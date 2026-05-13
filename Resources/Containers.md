@@ -37,6 +37,7 @@ A list of vetted sources for Red Teaming containers
 * [Escaping Virtualized Containers](https://youtu.be/jFlqVe11eeM)
 * [Root your Docker host in 10 seconds for fun and profit](https://www.electricmonk.nl/log/2017/09/30/root-your-docker-host-in-10-seconds-for-fun-and-profit/)
 * [NVIDIAScape - Critical NVIDIA AI Vulnerability: A Three-Line Container Escape in NVIDIA Container Toolkit (CVE-2025-23266)](https://www.wiz.io/blog/nvidia-ai-vulnerability-cve-2025-23266-nvidiascape)
+* [One Megabyte to Root: How a Size Check Broke Docker’s Last Line of Defense](https://www.cyera.com/research/one-megabyte-to-root-how-a-size-check-broke-dockers-last-line-of-defense)
 
 ## Persistence
 

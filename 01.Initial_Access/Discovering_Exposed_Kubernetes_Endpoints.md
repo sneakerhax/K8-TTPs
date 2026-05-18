@@ -30,6 +30,7 @@ Check for endpoint exposure using curl
 | /apis/autoscaling/v1/horizontalpodautoscalers          | List scaling policies    |
 | /openapi/v2                                            | OpenAPI v2 spec (full API schema) |
 | /openapi/v3                                            | OpenAPI v3 spec (newer clusters) |
+| /openapi.json                                          | OpenAPI schema (legacy alias) |
 | /swagger.json                                          | Legacy Swagger spec      |
 | /swagger-ui.html                                       | Swagger UI (if exposed)  |
 | /healthz                                               | API server health check  |

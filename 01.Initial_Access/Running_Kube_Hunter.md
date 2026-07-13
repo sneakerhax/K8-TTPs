@@ -1,4 +1,4 @@
-# Running Kube Hunter
+# Running Kube Hunter (Deprecated)
 
 **Description:** Kube-Hunter is a tool used to scan Kubernetes cluster for security weaknesses
 

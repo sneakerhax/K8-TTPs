@@ -1,4 +1,4 @@
-# Discovering Kubernetes secrets in GitHub repos with Trufflehog
+# Discovering Kubernetes secrets in GitHub with Trufflehog
 
 **Description:** This entry describes how to discover Kubernetes related secrets with Trufflehog in GitHub repos
 
